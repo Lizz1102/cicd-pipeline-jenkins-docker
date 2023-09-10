@@ -1,0 +1,19 @@
+# Ignore system and IDE files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Ignore build artifacts
+/target/
+/build/
+
+# Ignore logs
+*.log
+
+# Ignore generated files
+.DS_Store
+
+# Ignore any other temporary files or directories specific to the project
+jenkins_home/
